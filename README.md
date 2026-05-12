@@ -138,7 +138,7 @@ El proyecto fue creado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-movie-streaming-app/
+Plataforma-Web-Peliculas/
 │
 ├── client/
 ├── server/
@@ -161,7 +161,7 @@ movie-streaming-app/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-user/movie-streaming-app.git
+git clone https://github.com/isairey/Plataforma-Web-Peliculas.git
 ```
 
 ---
@@ -288,7 +288,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## Streaming Platform Developer
+## Isai Reyes Streaming Platform Developer
 
 Desarrollador enfocado en aplicaciones multimedia modernas y plataformas de streaming.
 
